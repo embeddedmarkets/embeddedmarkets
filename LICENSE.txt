@@ -1,0 +1,86 @@
+Copyright © 2026 Embedded Markets, Inc.
+All rights reserved.
+
+EMBEDDED MARKETS PRE-ALPHA SOFTWARE LICENSE AGREEMENT
+
+This Pre-Alpha Software License Agreement ("Agreement") governs your access to and use of the pre-alpha release of the software and associated documentation files (collectively, the "Software") made available by Embedded Markets, Inc. ("Embedded Markets," "we," "us," or "our"). By downloading, installing, accessing, or using the Software, you agree to be bound by this Agreement, together with our Terms of Use at https://www.embeddedmarkets.com/terms-of-use.html and Privacy Policy at https://www.embeddedmarkets.com/privacy-policy.html (collectively, the "Site Policies"). If you do not agree to all of these terms, do not use the Software.
+
+1. ELIGIBILITY
+
+The Software is intended for users who are at least 18 years old and authorized to enter into binding contracts. By using the Software, you represent that you meet these requirements or have access to qualified professional advice sufficient to evaluate the Software's outputs.
+
+2. LICENSE GRANT AND SCOPE
+
+Subject to your compliance with this Agreement, Embedded Markets grants you a limited, non-exclusive, non-transferable, revocable license to install and use the Software solely for internal evaluation, development, testing, and non-production research purposes during the pre-alpha and private preview periods. This license does not grant you any right to use the Software in a production environment, to offer services based on the Software to third parties, or to commercialize the Software or its outputs without a separate written agreement.
+
+3. PRE-ALPHA AND PRIVATE PREVIEW STATUS
+
+The Software is an early pre-alpha developer release of LeveeBacktest™ and emPortfolioAnalyzer™. Features are incomplete, subject to change, and may contain defects. The Software is provided for evaluation and feedback purposes only while substantive functionality is finalized for the public beta program. Nothing in this Agreement obligates Embedded Markets to release a commercial version or to include any particular feature.
+
+4. RESTRICTIONS
+
+You agree not to: (a) copy, modify, distribute, sublicense, sell, lease, rent, lend, or transfer the Software or any portion thereof; (b) reverse engineer, decompile, disassemble, or otherwise attempt to derive source code from the Software except as expressly permitted by applicable law; (c) remove or alter any proprietary notices, labels, or marks; (d) use the Software to provide investment advice, manage third-party assets, execute trades, or engage in regulated activity without appropriate licensure and a separate written agreement; (e) benchmark, scrape, or monitor the Software's availability or performance without prior written consent; or (f) use the Software for any unlawful purpose.
+
+5. OWNERSHIP AND USER CONTENT
+
+Embedded Markets retains all right, title, and interest in and to the Software, including all intellectual property rights. No ownership interest in the Software is transferred to you under this Agreement.
+
+You retain ownership of any trading strategy inputs, model parameters, portfolio data, or other content that you upload or generate using the Software ("User Content"). By using the Software, you grant us a license to process User Content solely as necessary to operate, maintain, and improve the Software. Analytical outputs generated from your User Content belong to you; the underlying software, models, algorithms, and methods used to generate them remain ours.
+
+6. FEEDBACK
+
+You may provide suggestions, bug reports, or other feedback regarding the Software ("Feedback"). You grant Embedded Markets a perpetual, irrevocable, royalty-free, worldwide license to use such Feedback for any purpose without restriction or compensation, and providing it does not create any obligation on our part.
+
+7. NO INVESTMENT ADVICE; HYPOTHETICAL OUTPUTS
+
+Embedded Markets is a software provider only. The Software and any outputs — including simulation results, backtests, risk metrics, correlation analyses, position-sizing calculations, hypothetical risk-adjusted position sizing suggestions, or other recommendations — do not constitute investment advice or a recommendation to buy, sell, hold, or otherwise transact in any security, commodity, futures contract, or other financial instrument.
+
+All outputs are generated from inputs and objectives you supply using mathematical models. They are hypothetical, have inherent limitations, and do not take into account your particular financial circumstances, risk profile, regulatory obligations, or suitability requirements. You retain sole discretion over, and bear all responsibility and risk for, every trading or investment decision made using the Software's outputs.
+
+For additional detail on hypothetical performance and model limitations, see Section 12 of the Embedded Markets Terms of Use.
+
+8. CONFIDENTIALITY
+
+Each party agrees to keep confidential any non-public, proprietary, or sensitive information disclosed in connection with the Software, except as required by law or with prior written consent.
+
+9. PRIVACY AND DATA PROCESSING
+
+Your use of the Software is also governed by our Privacy Policy at https://www.embeddedmarkets.com/privacy-policy.html. By using the Software, you consent to the collection, processing, and transfer of your information as described in that policy.
+
+10. DISCLAIMER OF WARRANTIES
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, COMPLETENESS, RELIABILITY, OR NON-INFRINGEMENT. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE SOFTWARE IS WITH YOU.
+
+11. LIMITATION OF LIABILITY
+
+TO THE FULLEST EXTENT PERMITTED BY LAW, IN NO EVENT SHALL EMBEDDED MARKETS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, PUNITIVE, OR EXEMPLARY DAMAGES ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF THE SOFTWARE, INCLUDING WITHOUT LIMITATION TRADING LOSSES, LOST PROFITS, LOSS OF CAPITAL, OR OTHER FINANCIAL LOSSES, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+12. INDEMNIFICATION
+
+You agree to indemnify and hold harmless Embedded Markets, its directors, officers, employees, and affiliates from any claims, losses, liabilities, damages, or expenses (including reasonable attorneys' fees) arising out of your use of the Software, your User Content, your violation of this Agreement, or decisions you make based on the Software's outputs.
+
+13. TERMINATION
+
+This Agreement is effective until terminated. Embedded Markets may terminate this Agreement and your license at any time, with or without cause. Upon termination, you must cease all use of the Software and destroy all copies in your possession. Provisions relating to ownership, confidentiality, disclaimers, limitation of liability, indemnification, and governing law will survive termination.
+
+14. GOVERNING LAW AND JURISDICTION
+
+This Agreement is governed by the laws of the State of Illinois, United States, without regard to its conflict of law principles. Any dispute arising out of or relating to this Agreement shall be brought in Cook County, Illinois.
+
+15. ENTIRE AGREEMENT; SITE POLICIES
+
+This Agreement constitutes the entire agreement between you and Embedded Markets regarding the Software. Your use is also subject to the Site Policies referenced above, which are incorporated by reference. If there is any conflict between this Agreement and the Site Policies with respect to the Software, the terms of this Agreement shall control.
+
+16. CONTACT US
+
+For questions about this Agreement, please contact:
+
+Embedded Markets, Inc.
+714 Oak Street, Suite B
+Winnetka, IL 60093
+Email: legal@embeddedmarkets.com
+
+17. TRADEMARKS
+
+Embedded Markets, LeveeBacktest, emPortfolioAnalyzer, and related marks are trademarks of Embedded Markets, Inc.
+

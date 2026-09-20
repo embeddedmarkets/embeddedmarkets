@@ -1,0 +1,50 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "embeddedmarkets"
+version = "0.1.0a1"
+description = "Pre-alpha developer release of the Embedded Markets toolkit — AI agent-based simulation and risk-management tools for professional traders."
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "Proprietary"}
+authors = [
+    {name = "Jonathan Haynes", email = "developers@embeddedmarkets.com"},
+]
+keywords = [
+    "agent-based models",
+    "backtesting",
+    "risk management",
+    "portfolio analysis",
+    "tail risk",
+    "CGMY",
+    "multiverse simulation",
+]
+classifiers = [
+    "Development Status :: 2 - Pre-Alpha",
+    "Intended Audience :: Financial Services Industry",
+    "Topic :: Office/Business :: Financial :: Investment",
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "networkx>=3.0",
+    "numpy>=1.24",
+    "scikit-survival>=0.22.0",
+    "scipy>=1.10",
+    "statsmodels>=0.14.0",
+]
+
+[project.urls]
+Homepage     = "https://www.embeddedmarkets.com"
+Documentation = "https://www.embeddedmarkets.com/resources/documentation/"
+Contact      = "https://www.embeddedmarkets.com/company/contactus/"
+Repository   = "https://github.com/embeddedmarkets/embeddedmarkets.git"
+Issues       = "https://github.com/embeddedmarkets/embeddedmarkets/issues"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
